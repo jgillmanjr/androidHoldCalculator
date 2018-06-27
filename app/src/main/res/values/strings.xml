@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hold Calculator</string>
+    <string name="hdg_to_fix_input_hint" >Heading To Fix</string>
+    <string name="hold_heading_input_hint">Hold Heading</string>
+</resources>
